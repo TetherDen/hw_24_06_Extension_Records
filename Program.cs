@@ -56,10 +56,11 @@ namespace hw_24_06_Extension_Records
                 for (int j = i+1; j < list.Count; j++)
                 {
                     double temp = list[i].DistancesBetweenPoints(list[j]);
-                    if (temp > maxDistance)
-                    {
-                        maxDistance = temp;
-                    }
+                    maxDistance = temp > maxDistance ? temp : maxDistance;
+                    //if (temp > maxDistance)
+                    //{
+                    //    maxDistance = temp;
+                    //}
                 }
             }
             return maxDistance;

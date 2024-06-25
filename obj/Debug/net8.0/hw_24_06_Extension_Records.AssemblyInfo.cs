@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hw_24_06_Extension_Records")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6600f02d9381d1aca152bf39530a3e8d4350de2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("hw_24_06_Extension_Records")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hw_24_06_Extension_Records")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
