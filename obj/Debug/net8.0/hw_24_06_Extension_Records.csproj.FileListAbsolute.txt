@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\bin\Debug\net8.0\hw_24_06_Extension_Records.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\bin\Debug\net8.0\hw_24_06_Extension_Records.deps.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\bin\Debug\net8.0\hw_24_06_Extension_Records.runtimeconfig.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\bin\Debug\net8.0\hw_24_06_Extension_Records.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\bin\Debug\net8.0\hw_24_06_Extension_Records.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\refint\hw_24_06_Extension_Records.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\hw_24_06_Extension_Records.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_24_06_Extension_Records\obj\Debug\net8.0\ref\hw_24_06_Extension_Records.dll
